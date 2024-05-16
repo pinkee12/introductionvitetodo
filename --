@@ -1,0 +1,16 @@
+Need to install the following packages:
+create-vite@5.2.3
+Ok to proceed? (y) [?25l[36m?[39m [1mSelect a framework:[22m [90m»[39m [90m- Use arrow-keys. Return to submit.[39m
+[36m>[39m   [36m[4mVanilla[39m[24m[90m[39m
+    Vue[90m[39m
+    React[90m[39m
+    Preact[90m[39m
+    Lit[90m[39m
+    Svelte[90m[39m
+    Solid[90m[39m
+    Qwik[90m[39m
+    Others[90m[39m
+[2K[1G[32m√[39m [1mSelect a framework:[22m [90m»[39m Vanilla
+[?25h[?25l[36m?[39m [1mSelect a variant:[22m [90m»[39m [90m- Use arrow-keys. Return to submit.[39m
+[36m>[39m   [36m[4mTypeScript[39m[24m[90m[39m
+    JavaScript[90m[39m
